@@ -1,0 +1,51 @@
+﻿@model IEnumerable<MasumBlogApp.Models.Blog>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3>Blog Post List</h3>
+<hr />
+
+<p>
+    <a asp-action="Create" class=" btn btn-sm btn-primary">Add New Post</a>
+</p>
+<br/>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.BlogText)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Author)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Date)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BlogText)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-success">Edit</a> <br /><br/>
+                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-primary">Details</a> <br /><br />
+                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
+
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

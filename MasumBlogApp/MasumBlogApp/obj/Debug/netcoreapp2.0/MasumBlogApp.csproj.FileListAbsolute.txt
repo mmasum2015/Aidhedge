@@ -1,0 +1,12 @@
+C:\Users\masum\Desktop\Aidhedge\MasumBlogApp\MasumBlogApp\bin\Debug\netcoreapp2.0\MasumBlogApp.deps.json
+C:\Users\masum\Desktop\Aidhedge\MasumBlogApp\MasumBlogApp\bin\Debug\netcoreapp2.0\MasumBlogApp.runtimeconfig.json
+C:\Users\masum\Desktop\Aidhedge\MasumBlogApp\MasumBlogApp\bin\Debug\netcoreapp2.0\MasumBlogApp.runtimeconfig.dev.json
+C:\Users\masum\Desktop\Aidhedge\MasumBlogApp\MasumBlogApp\bin\Debug\netcoreapp2.0\MasumBlogApp.dll
+C:\Users\masum\Desktop\Aidhedge\MasumBlogApp\MasumBlogApp\bin\Debug\netcoreapp2.0\MasumBlogApp.pdb
+C:\Users\masum\Desktop\Aidhedge\MasumBlogApp\MasumBlogApp\obj\Debug\netcoreapp2.0\MasumBlogApp.csprojResolveAssemblyReference.cache
+C:\Users\masum\Desktop\Aidhedge\MasumBlogApp\MasumBlogApp\obj\Debug\netcoreapp2.0\MasumBlogApp.csproj.CoreCompileInputs.cache
+C:\Users\masum\Desktop\Aidhedge\MasumBlogApp\MasumBlogApp\obj\Debug\netcoreapp2.0\MasumBlogApp.AssemblyInfoInputs.cache
+C:\Users\masum\Desktop\Aidhedge\MasumBlogApp\MasumBlogApp\obj\Debug\netcoreapp2.0\MasumBlogApp.AssemblyInfo.cs
+C:\Users\masum\Desktop\Aidhedge\MasumBlogApp\MasumBlogApp\obj\Debug\netcoreapp2.0\MasumBlogApp.dll
+C:\Users\masum\Desktop\Aidhedge\MasumBlogApp\MasumBlogApp\obj\Debug\netcoreapp2.0\MasumBlogApp.pdb
+C:\Users\masum\Desktop\Aidhedge\MasumBlogApp\MasumBlogApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
